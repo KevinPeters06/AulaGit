@@ -1,0 +1,6 @@
+git init = Inicializa o repositório.
+git status = Mostra quais arquivos falta adicionar ou ja adicionou.
+git add = adiciona um arquivo ao commit.
+git commit = Serve para criar um commit, que é um ponto salvo na versão.
+git remote add = Adiciona um repositório remoto.
+git push = Ele envia as alterações para o repositório remoto.
